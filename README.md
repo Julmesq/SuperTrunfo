@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Julmesq
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Java and JavaScript.
+- 🌱 I’m currently learning Java, JavaScript and C.
